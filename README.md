@@ -1,4 +1,4 @@
-chool Management System
+School Management System
 A modern Node.js-based backend application to manage school data seamlessly. Built with Express.js and MongoDB Atlas, this project focuses on scalability, security, and efficiency.
 
 🚀 Features
